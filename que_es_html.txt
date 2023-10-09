@@ -1,0 +1,9 @@
+HTML, que significa HyperText Markup Language (Lenguaje de Marcado de Hipertexto), es el lenguaje de marcado 
+estándar utilizado para crear páginas web. Fue creado originalmente por Tim Berners-Lee en 1990 como una forma 
+de estructurar documentos y enlazarlos mediante hipervínculos. HTML es fundamental en la construcción de sitios 
+web y es el lenguaje que se utiliza para describir la estructura y el contenido de una página web.
+
+HTML utiliza una serie de etiquetas o "tags" para marcar y estructurar el contenido de una página web. 
+Cada etiqueta tiene un propósito específico y se utiliza para definir elementos como encabezados, párrafos, 
+listas, enlaces, imágenes, formularios y más. Estas etiquetas permiten al navegador web interpretar y mostrar
+ el contenido de la página de manera adecuada.
